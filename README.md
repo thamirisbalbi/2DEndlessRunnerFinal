@@ -1,5 +1,7 @@
 Trabalho 1: Jogo 2D DCC 148 - Desenvolvimento de jogos-  2DEndlessRunner, nome: DinoRun
+
 Grupo: Thamiris Balbi Teixeira 
+
 Versão usada: Unity 6000.0.38f1 - versão recomendada para preservar configurações (ao abrir em outras versões é possível que algumas configurações da hierarquia sejam perdidas)
 
 Se ao testar o executável der problemas ao abrir, verificar se o file com o nome -Data está com o nome esperado pelo programa.
